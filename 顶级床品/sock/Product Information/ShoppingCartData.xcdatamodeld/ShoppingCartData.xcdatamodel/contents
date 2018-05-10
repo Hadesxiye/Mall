@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="13772" systemVersion="17B1003" minimumToolsVersion="Automatic" sourceLanguage="Objective-C" userDefinedModelVersionIdentifier="">
+    <entity name="ShoppingInCart" representedClassName="ShoppingInCart" syncable="YES">
+        <attribute name="picUrl" optional="YES" attributeType="String" defaultValueString="0" syncable="YES"/>
+        <attribute name="price" optional="YES" attributeType="String" defaultValueString="0" syncable="YES"/>
+        <attribute name="productID" optional="YES" attributeType="String" defaultValueString="0" syncable="YES"/>
+        <attribute name="sum" optional="YES" attributeType="String" defaultValueString="0" syncable="YES"/>
+        <attribute name="title" optional="YES" attributeType="String" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="ShoppingInCart" positionX="-45" positionY="0" width="128" height="120"/>
+    </elements>
+</model>
